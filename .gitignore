@@ -1,0 +1,7 @@
+venv/
+finance.db
+get-pip.py
+fix.py
+__pycache__/
+*.pyc
+*.db
